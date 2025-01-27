@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shivam1998174/bnma.io.git/static/css/main.b52c65cd.css",
-    "main.js": "/shivam1998174/bnma.io.git/static/js/main.1b6d3b31.js",
+    "main.js": "/shivam1998174/bnma.io.git/static/js/main.a7c70fe6.js",
     "static/media/background1.jpg": "/shivam1998174/bnma.io.git/static/media/background1.14b558f9f29233a780c4.jpg",
     "static/media/heroimg.webp": "/shivam1998174/bnma.io.git/static/media/heroimg.2dd63265879de49b3438.webp",
     "static/media/green-background.jpg": "/shivam1998174/bnma.io.git/static/media/green-background.e105f88ca2f3688b139f.jpg",
     "index.html": "/shivam1998174/bnma.io.git/index.html",
     "main.b52c65cd.css.map": "/shivam1998174/bnma.io.git/static/css/main.b52c65cd.css.map",
-    "main.1b6d3b31.js.map": "/shivam1998174/bnma.io.git/static/js/main.1b6d3b31.js.map"
+    "main.a7c70fe6.js.map": "/shivam1998174/bnma.io.git/static/js/main.a7c70fe6.js.map"
   },
   "entrypoints": [
     "static/css/main.b52c65cd.css",
-    "static/js/main.1b6d3b31.js"
+    "static/js/main.a7c70fe6.js"
   ]
 }
