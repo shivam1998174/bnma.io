@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bnma.io.git/static/css/main.31db5ea5.css",
+    "main.js": "/bnma.io.git/static/js/main.a7c70fe6.js",
+    "static/media/background1.jpg": "/bnma.io.git/static/media/background1.14b558f9f29233a780c4.jpg",
+    "static/media/heroimg.webp": "/bnma.io.git/static/media/heroimg.2dd63265879de49b3438.webp",
+    "static/media/green-background.jpg": "/bnma.io.git/static/media/green-background.e105f88ca2f3688b139f.jpg",
+    "index.html": "/bnma.io.git/index.html",
+    "main.31db5ea5.css.map": "/bnma.io.git/static/css/main.31db5ea5.css.map",
+    "main.a7c70fe6.js.map": "/bnma.io.git/static/js/main.a7c70fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31db5ea5.css",
+    "static/js/main.a7c70fe6.js"
+  ]
+}
