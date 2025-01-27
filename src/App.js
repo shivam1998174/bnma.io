@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/bnma.io'>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
